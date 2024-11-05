@@ -44,5 +44,5 @@
 - ** Visual Studio 2019 или новее
 
 ## Автор
-Автор: https://github.com/FoML1ST1K
+Автор: https://github.com/FoML1ST1K  
 E-mail: fg.l1st0k@gmail.com
