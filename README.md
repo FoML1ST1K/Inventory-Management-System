@@ -40,8 +40,8 @@
 - **DataObject**: Класс для представления объекта с полями `Id`, `Name` и `Quantity`.
 
 ## Требования и зависимости
-- ** .NET Framework 4.7.2 или новее
-- ** Visual Studio 2019 или новее
+- .NET Framework 4.7.2 или новее
+- Visual Studio 2019 или новее
 
 ## Автор
 Автор: https://github.com/FoML1ST1K  
